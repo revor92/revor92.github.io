@@ -1,0 +1,11 @@
+body {
+  font-family: 'Courier New', monospace;
+}
+
+th, td {
+  background: rgb(235, 239, 240);
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  line-height: 40px;
+}
